@@ -1,0 +1,7 @@
+START
+INPUT bp
+INPUT c%
+INPUT ts
+PROCESS pay = bp + (ts * c%)
+DISPLAY pay
+END

@@ -1,0 +1,8 @@
+START
+INPUT sw
+INPUT qz
+INPUT ex
+PROCESS t = (sw * 0.3) + (qz * 0.3) + (ex * 0.3)
+PROCESS average = t/3
+DISPLAY average
+END

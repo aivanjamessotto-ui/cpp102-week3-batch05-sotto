@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for sw, qz, ex.
+Step 3: Process t = (sw * 0.3) + (qz * 0.3) + (ex * 0.3).
+Step 4: Process average = t/3.
+Step 5: Display average.
+Step 6: End.

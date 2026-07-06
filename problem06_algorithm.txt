@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask for base pay, store as "bp".
+Step 3: Ask for commission rate percentage, store as "c%".
+Step 4: Ask for total sales, store as "ts".
+Step 5: Process pay = bp + (ts * c%).
+Step 6: Display pay.
+Step 7: End.
