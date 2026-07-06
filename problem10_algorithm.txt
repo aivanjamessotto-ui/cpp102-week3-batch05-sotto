@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for queue number, store as "qn".
+Step 3: If qn MOD = 2.
+Step 4: Display Even.
+Step 5: Otherwise, display Odd.
+Step 6: End.

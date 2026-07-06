@@ -1,0 +1,7 @@
+START
+INPUT qn
+IF qn MOD = 2
+	DISPLAY Even
+ELSE
+	DISPLAY Odd
+END

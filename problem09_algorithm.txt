@@ -1,0 +1,9 @@
+Step 1: Start.
+Step 2: Ask for point differential, store as "pd".
+Step 3: If pd > 0.
+Step 4: Display Win.
+Step 5: If pd < 0.
+Step 6: Display Loss.
+Step 7: If pd = 0.
+Step 8: Display Tie.
+Step 9: End.

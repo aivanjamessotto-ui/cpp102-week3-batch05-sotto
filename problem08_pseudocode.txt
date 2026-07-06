@@ -1,0 +1,7 @@
+START
+INPUT GA
+IF GA >= 90
+	DISPLAY Eligible for Honor Roll
+ELSE
+	DISPLAY Not Eligible for Honor Roll
+END

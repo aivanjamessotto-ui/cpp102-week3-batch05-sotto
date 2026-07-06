@@ -1,0 +1,9 @@
+START
+INPUT pd
+IF pd > 0
+	DISPLAY Win
+IF pd < 0
+	DISPLAY Loss
+IF pd = 0
+	DISPLAY Tie
+END

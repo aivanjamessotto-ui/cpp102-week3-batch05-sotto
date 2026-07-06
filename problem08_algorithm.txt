@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for general average, store as "GA".
+Step 3: If GA >= 90.
+Step 4: Display Eligible for Honor Roll.
+Step 5: Otherwise, display Not Eligible for Honor Roll.
+Step 6: End.
