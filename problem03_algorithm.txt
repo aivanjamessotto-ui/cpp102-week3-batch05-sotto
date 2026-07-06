@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for rate per hour, store as "r".
+Step 3: Ask for number of hours parked, store as "h".
+Step 4: Process fee = (r * h).
+Step 5: Display fee.
+Step 6: End.

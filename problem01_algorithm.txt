@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for the distance goal, store as "goal".
+Step 3: Ask for the distance already covered, store as "covered".
+Step 4: Process (goal - covered) = distance left, store as "left".
+Step 5: Display left.
+Step 6: End.

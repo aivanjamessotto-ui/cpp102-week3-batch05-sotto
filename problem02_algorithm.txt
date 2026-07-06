@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask for court length, store as "L".
+Step 3: Ask for court width, store as "W".
+Step 4: Process perimeter = 2(L * W).
+Step 5: Display perimeter.
+Step 6: End.

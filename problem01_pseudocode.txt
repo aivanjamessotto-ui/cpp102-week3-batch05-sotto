@@ -1,0 +1,6 @@
+START
+INPUT goal
+INPUT covered
+PROCESS (goal - covered) = left
+DISPLAY left
+END

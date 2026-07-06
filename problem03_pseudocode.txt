@@ -1,0 +1,6 @@
+START
+INPUT r
+INPUT h
+PROCESS fee = (r * h)
+DISPLAY fee
+END
