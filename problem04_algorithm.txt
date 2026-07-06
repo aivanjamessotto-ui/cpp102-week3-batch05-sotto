@@ -2,4 +2,8 @@ Step 1: Start.
 Step 2: Ask for trial1, trial2, trial3.
 Step 3: Process average = (trial1 + trial2 + trial3/3)
 Step 4: Display average.
+<<<<<<< HEAD
 Step 5: End.
+=======
+Step 5: End.
+>>>>>>> 882e8541986f5ad9b7e26cd32151704ab58cfe22
